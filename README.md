@@ -23,3 +23,5 @@ Question/Response (<=255 bytes)
 • The server runs on a known address and listens on a well-known port. For now assume
 you are running both the server and client on the local host similar to the example
 above.
+
+<img width="523" alt="example" src="https://user-images.githubusercontent.com/91381333/217129799-0f6a1c6a-ab7c-4748-9764-1b43c03ba2b8.png">
